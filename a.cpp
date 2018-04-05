@@ -1,3 +1,4 @@
+//just for example i have taken this program,it has no semantic
 #include <stdio.h>
 int main()
 {
